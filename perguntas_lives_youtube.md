@@ -1,140 +1,103 @@
-# Perguntas para Lives — Bolão CazéTV 🎯
+# Pesquisa Bolão CazéTV — Resultados Apurados (Lives YouTube)
 
-> **Objetivo:** Entender quais features o público mais valoriza para definir o MVP e direcionar a comunicação.
-> **Formato:** 4 blocos × 5 perguntas | Máx. 100 chars/pergunta | 4 opções de máx. 35 chars
+Foram aplicadas 15 perguntas modificadas a partir da base original, cruzando os objetivos de validação do MVP com as escolhas do público ao vivo.
 
----
+Abaixo estão as perguntas com os exatos textos aplicados e a porcentagem de intenção do público:
 
-## 🟦 Bloco 1 — Funcionalidades Core
+## Bloco Institucional e Adesão
 
-**P1 — Qual funcionalidade do bolão é mais importante pra você?**
-- A) Acertar o resultado dos jogos
-- B) Ver meu ranking em tempo real
-- C) Competir em grupo com amigos
-- D) Ganhar prêmios e recompensas
+**Q1. O que mais te faria jogar um bolão da Copa?**
+- Competir com meus amigos: 25%
+- Ganhar prêmios: 41% 🏆
+- Jogar com o elenco da CazéTV: 15%
+- Só dar palpite: 19%
 
-**P2 — Que tipo de palpite você mais curtiria fazer?**
-- A) Resultado final (placar exato)
-- B) Quem vence o jogo (1x2)
-- C) Quem vai marcar o gol
-- D) Estatísticas do jogo
+**Q2. Um bolão da Copa gratuito com prêmio te anima?**
+- Sim, já entraria: 61% 🏆
+- Só se o prêmio for bom: 18%
+- Depende de quem jogar: 5%
+- Nem ligo: 16%
 
-**P3 — Quantas vezes por semana você jogaria no bolão?**
-- A) Só quando meu time jogar
-- B) 1 a 2 jogos por semana
-- C) Todos os jogos da rodada
-- D) Todo dia, se puder!
+**Q3. Se tivesse um bolão da Copa da CazéTV, você jogaria?**
+- Tô dentro AGORA: 51% 🏆
+- Depende dos prêmios: 25%
+- Só se meus amigos jogarem comigo: 6%
+- Nem curto bolão: 18%
 
-**P4 — Como prefere participar do bolão?**
-- A) Sozinho, só meu desempenho
-- B) Grupo fechado com amigos
-- C) Liga global com todos os fãs
-- D) Amigos + ranking geral junto
+## Bloco Social e Engajamento (Amigos e CazéTV)
 
-**P5 — Você usaria o bolão durante um jogo ao vivo?**
-- A) Sim! Quero palpitar em tempo real
-- B) Sim, se for fácil e rápido
-- C) Talvez, depende das funções
-- D) Não, prefiro antes do jogo
+**Q4. Você criaria uma liga só com seus amigos no bolão da Copa?**
+- Sim, já sei quem convidaria: 52% 🏆
+- Só se for fácil de criar: 18%
+- Talvez... depende das regras: 15%
+- Prefiro jogar só o ranking geral: 15%
 
----
+**Q5. Como você prefere jogar o bolão?**
+- Disputando uma liga com amigos: 37% 🏆
+- Disputando liga do elenco CazéTV: 17%
+- Disputando no ranking geral: 13%
+- Todas as alternativas: 33%
 
-## 🟨 Bloco 2 — Social e Competição
+**Q6. No bolão da Copa, você gostaria de poder colocar o elenco CazéTV na sua liga com seus amigos?**
+- Sim, vai ser gigante!: 59% 🏆
+- Só se meus amigos também toparem: 8%
+- Tanto faz: 21%
+- Não, só quero meus amigos: 11%
 
-**P6 — Você criaria um grupo com amigos no bolão?**
-- A) Sim, já sei quem convidaria!
-- B) Sim, se for fácil de criar
-- C) Talvez, depende das regras
-- D) Não, prefiro jogar sozinho
+**Q7. O que mais te empolga num bolão da Copa?**
+- Resenhar com os amigos: 52% 🏆
+- Competir no ranking geral: 10%
+- Competir com o elenco CazéTV: 8%
+- Ganhar prêmios: 30%
 
-**P7 — O ranking do bolão deve mostrar quem?**
-- A) Todos os usuários do Brasil
-- B) Só meus amigos e conhecidos
-- C) Por grupos/ligas separadas
-- D) Os três ao mesmo tempo
+## Bloco Comportamento do Usuário e Rotina
 
-**P8 — Que notificação te faria voltar ao bolão?**
-- A) "Você subiu no ranking!"
-- B) "Um amigo te ultrapassou!"
-- C) "Palpites do próximo jogo abertos"
-- D) "Você ganhou um prêmio!"
+**Q8. O que mais te ajuda a palpitar num bolão?**
+- Meu conhecimento: 65% 🏆
+- Palpite do elenco CazéTV: 16%
+- Estatística do jogo/palpite da IA: 11%
+- Opinião dos amigos: 8%
 
-**P9 — Você compartilharia seu resultado do bolão?**
-- A) Sim, nos stories do Instagram
-- B) Só se for um bom resultado
-- C) No grupo de WhatsApp
-- D) Não costumo compartilhar
+**Q9. O que te faria voltar todo dia no bolão da Copa?**
+- Ver o ranking atualizado: 39% 🏆
+- Ganhar alguma coisa todo dia: 38%
+- Resenhar com os amigos: 10%
+- Ver a resenha do elenco da CazéTV: 13%
 
-**P10 — O que mais te empolga numa competição?**
-- A) Estar no topo do ranking
-- B) Superar um amigo específico
-- C) Ser reconhecido pelos fãs
-- D) Receber prêmio no final
+**Q10. O que faria o bolão da Copa virar rotina pra você?**
+- Resenha com amigos sobre os jogos: 49% 🏆
+- Ranking competitivo: 20%
+- Acompanhar elenco CazéTV palpitando: 10%
+- Chance de ganhar prêmios frequentes: 21%
 
----
+**Q11. Quando você faria seus palpites no bolão da Copa?**
+- Minutos antes do jogo começar: 40% 🏆
+- No dia do jogo: 34%
+- Um dia antes do jogo: 15%
+- Vários dias antes do jogo: 11%
 
-## 🟥 Bloco 3 — Prêmios e Recompensas
+## Bloco Experiência de Produto e Retenção
 
-**P11 — Que tipo de prêmio te motivaria mais a jogar?**
-- A) Prêmio em dinheiro
-- B) Produtos/experiências CazéTV
-- C) Descontos em parceiros
-- D) Badge/destaque no app
+**Q12. O que não pode faltar no bolão da Copa?**
+- Liga só com os meus amigos: 28%
+- Ranking geral do bolão: 19%
+- Jogar com o elenco CazéTV: 20%
+- Premiação absurda: 32% 🏆
 
-**P12 — Qual dinâmica de premiação você prefere?**
-- A) Um grande prêmio na final
-- B) Prêmios menores toda semana
-- C) Prêmio por jogo acertado
-- D) Pontos para resgatar depois
+**Q13. Você compartilharia seus resultados no bolão da Copa?**
+- Sim, faria stories mostrando: 36% 🏆
+- Só se mandar bem: 16%
+- Só no grupo do zap com amigos: 13%
+- Não compartilho: 35%
 
-**P13 — O bolão gratuito com prêmios te atrai?**
-- A) Sim, me cadastraria agora!
-- B) Sim, se os prêmios forem bons
-- C) Depende de como funciona
-- D) Só me interessa se for pago
+**Q14. Qual notificação te faria acessar imediatamente o bolão da Copa?**
+- "Subiu no ranking!": 44% 🏆
+- "Um amigo te ultrapassou!": 15%
+- "Palpite do próximo jogo aberto!": 15%
+- "Resultado saiu!": 25%
 
-**P14 — Você pagaria por um bolão premium com prêmio maior?**
-- A) Sim, se o prêmio compensar
-- B) Talvez, depende do valor
-- C) Não, só se for gratuito
-- D) Nunca pensei nisso
-
-**P15 — O que mais te motiva a continuar jogando?**
-- A) Estar no topo do ranking
-- B) Ganhar prêmios reais
-- C) Diversão com os amigos
-- D) Provar que entendo de futebol
-
----
-
-## 🟩 Bloco 4 — Experiência e Acesso
-
-**P16 — Onde prefere acessar o bolão?**
-- A) App próprio do bolão
-- B) Dentro do app CazéTV
-- C) Pelo site/navegador
-- D) Via Instagram ou TikTok
-
-**P17 — Com que antecedência faria seus palpites?**
-- A) Minutos antes do jogo
-- B) No dia do jogo
-- C) Um dia antes
-- D) Com até 1 semana antes
-
-**P18 — Você acompanharia o bolão durante a live?**
-- A) Sim, faz parte da experiência!
-- B) Sim, se tiver fácil acesso
-- C) Às vezes, se me lembrar
-- D) Não, prefiro separar os dois
-
-**P19 — Como quer receber atualizações do bolão?**
-- A) Push notification no celular
-- B) Posts/stories da CazéTV
-- C) Ao vivo na live do YouTube
-- D) E-mail ou newsletter
-
-**P20 — O que tornaria o bolão parte da sua rotina?**
-- A) Integração com as lives da CazéTV
-- B) Grupos com meus amigos
-- C) Prêmios frequentes
-- D) Interface simples e rápida
+**Q15. Você gostaria de ver o bolão da Copa nas transmissões dos jogos?**
+- Sim, ranking sempre aparecendo: 47% 🏆
+- Só com o elenco CazéTV comentando: 14%
+- Quero os resultados ao vivo!: 11%
+- Não precisa: 29%
