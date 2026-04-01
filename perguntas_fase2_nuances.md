@@ -1,143 +1,143 @@
 # Fase 2: Pesquisa de Nuances do Bolão (Lives YouTube)
 
-Com a primeira fase da pesquisa concluída (que validou a importância das ligas de amigos e o pico de acessos), esta segunda fase foca em entender as **mecânicas finas do jogo, gamificação, monetização e UX**.
+Como o motor de pontos, formato de 1v1 e boosters do jogo já estão travados pela LiveLike, esta nova fase foca em perguntas onde a CazéTV tem **fator de decisão total**: Pautas de Conteúdo/Live, Estratégia de Prêmios, Exigência de Marcas (Sponsors) e Retenção na Comunidade.
 
 ---
 
-## 🟦 Bloco 1 — Mecânicas de Palpite (Profundidade do Jogo)
-**Objetivo:** Entender o nível de complexidade que o público deseja. Eles querem um jogo rápido e casual ou algo super tático e detalhado?
+## 🟦 Bloco 1 — Recompensas e Prêmios (Ação Comercial)
+**Objetivo:** Entender qual formato de recompensa atrai o maior público, guiando o time comercial sobre o que buscar com os patrocinadores.
 
-**Q1. Qual tipo de palpite você acha mais divertido num jogo?**
-- A) Só quem ganha ou empate (1x2)
-- B) Acertar o placar exato
-- C) Quem faz o primeiro gol
-- D) Placar + quem toma cartão
+**Q1. Que tipo de prêmio te faria jogar o bolão todo dia?**
+- A) Experiências (conhecer o Cazé)
+- B) Camisas oficias de times
+- C) Dinheiro vivo / Pix na conta
+- D) Eletrônicos (TV, Videogame)
 
-**Q2. Se pudesse palpitar só em 1 coisa além do placar, o que seria?**
-- A) Quem vai ser o artilheiro
-- B) Número de escanteios
-- C) Se vai ter expulsão no jogo
-- D) Quem vai errar pênalti
+**Q2. Como você prefere que os prêmios sejam divididos?**
+- A) Um prêmio gigante no fim da Copa
+- B) Sorteios menores toda semana
+- C) Prêmio pra quem acerta a rodada
+- D) Top 10 ganha a mesma coisa
 
-**Q3. O que faria você se sentir mais especialista no bolão?**
-- A) Acertar o placar da zebra (azarão)
-- B) Cravar quem faz os gols
-- C) Acertar os palpites do mata-mata
-- D) Ter 100% de acerto na rodada
+**Q3. Você trocaria o prêmio máximo por várias recompensas pequenas?**
+- A) Sim, mais chance de ganhar algo
+- B) Não, quero a chance de ficar rico
+- C) Depende de quais recompensas
+- D) Tanto faz, só ligo pra resenha
 
-**Q4. Se fosse muito difícil de palpitar (muitos detalhes), você:**
-- A) Desistiria, prefiro algo rápido
-- B) Jogaria só nos jogos grandes
-- C) Ia estudar pra mandar bem
-- D) Iria na sorte mesmo
+**Q4. Se a CazéTV desse um prêmio extra, o que seria top?**
+- A) Participar de uma live no estúdio
+- B) Camisa autografada do elenco
+- C) Ter o nome lido no intervalo
+- D) Desconto vitalício na lojinha
 
-**Q5. Como você prefere receber os pontos por acertar?**
-- A) Pontos iguais pra todo acerto
-- B) Mais pontos se acertar a zebra
-- C) Pontos extras por placar exato
-- D) Bônus por acertos seguidos
-
----
-
-## 🟨 Bloco 2 — Dinâmicas Especiais e Gamificação
-**Objetivo:** Explorar features extras para aumentar o engajamento e a retenção, como itens especiais, disputas curtas e "super poderes" no jogo.
-
-**Q6. Você usaria um "Coringa" (dobra pontos) em um jogo por rodada?**
-- A) Sim, guardaria pro meu time
-- B) Sim, usaria na maior zebra
-- C) Prefiro sem essas invenções
-- D) Não sei usar essas coisas
-
-**Q7. O que você acha de ter disputas "Mata-Mata" (1 contra 1) com um amigo?**
-- A) Absoluto! Quero humilhar ele
-- B) Legal, mas prefiro a liga geral
-- C) Ia rolar aposta de zoeira nisso
-- D) Só se tiver prêmio especial
-
-**Q8. Qual formato de campeonato te prende mais a atenção?**
-- A) Liga longa (pontos por 1 mês)
-- B) Mini-ligas (vencedor por semana)
-- C) Vencedor por jogo individual
-- D) Batalhas diárias
-
-**Q9. Se errar muito no começo da Copa, você continuaria jogando?**
-- A) Sim, ia tentar recuperar
-- B) Não, o ânimo acaba na hora
-- C) Só nas mini-ligas da semana
-- D) Só pra resenhar na liga fechada
-
-**Q10. O que acha de receber "Conquistas/Medalhas" no perfil do app?**
-- A) Amo colecionar essas badges
-- B) Legal pra zoar os amigos
-- C) Não ligo pra isso, quero pontos
-- D) Só se eu puder exibir na live
+**Q5. Se o prêmio final fosse dinheiro, quanto chamaria a atenção?**
+- A) R$ 1.000 já anima bastante
+- B) De R$ 5.000 a R$ 10.000
+- C) Tem que ser acima de R$ 50.000
+- D) Só o bolão sem prêmio já tá bom
 
 ---
 
-## 🟥 Bloco 3 — Monetização e Modelo Premium
-**Objetivo:** Avaliar como (e se) o público estaria disposto a gastar dinheiro para ter vantagens, features exclusivas ou escalar os prêmios.
+## 🟨 Bloco 2 — Conteúdo e Lives (Ação do Youtube)
+**Objetivo:** Orientar roteiristas e apresentadores sobre como o bolão vai viver dentro da transmissão ao vivo, maximizando entretenimento sem atrapalhar.
 
-**Q11. Se rolasse um "Passe VIP" do bolão, o que ele deveria ter?**
-- A) Prêmios em dinheiro muito maiores
-- B) Sorteios extras de camisas/ingressos
-- C) Dicas de estatísticas exclusivas
-- D) Status e coroa no perfil
+**Q6. Como você quer ver o bolão nas transmissões ao vivo?**
+- A) Ranking na tela o tempo todo
+- B) A reação do Cazé aos palpites
+- C) Comentários rápidos no pré-jogo
+- D) Quero foco 100% só na partida
 
-**Q12. Quanto você pagaria por um passe VIP para a Copa inteira?**
-- A) Até R$ 10,00
-- B) Entre R$ 10,00 e R$ 30,00
-- C) Mais de R$ 50,00 se o prêmio for top
-- D) Só jogo de graça
+**Q7. Que formato de vídeo sobre o bolão você assistiria no canal?**
+- A) Dicas de tática pra acertar placar
+- B) Elenco zoando o último do ranking
+- C) Casimiro armando a liga dele
+- D) Casos engraçados do público
 
-**Q13. Você compraria itens no jogo (tipo recuperar ponto perdido)?**
-- A) Sim, se for baratinho
-- B) Só se fosse disputa séria
-- C) Não, o jogo perde a graça
-- D) Talvez, dependendo da situação
+**Q8. O que geraria mais engajamento na live pra você?**
+- A) Elenco pagando mico se errar
+- B) Ligar pro 1º lugar do bolão ao vivo
+- C) Apostas malucas de zebras bizarras
+- D) Ler os piores palpites do chat
 
-**Q14. Preferia pagar uma vez só ou por "bilhetes" a cada jogo?**
-- A) Uma vez só (Passe da Copa)
-- B) Pagar trocado a cada rodada
-- C) Uma assinatura mensal
-- D) Prefiro o formato 100% grátis
+**Q9. Em qual momento do jogo é melhor falar do bolão?**
+- A) Só no aquecimento
+- B) No intervalo principal
+- C) No pós-jogo (focando nos erros)
+- D) O tempo todo espalhado no jogo
 
-**Q15. Se o VIP tiver prêmio garantido pra participar, você entra?**
-- A) Entro de olho fechado
-- B) Depende do que for o prêmio
-- C) Jogaria pra ver se vale a pena
-- D) Não ligo, jogo por diversão
+**Q10. Você encararia um "Desafie a CazéTV" valendo pontos no bolão?**
+- A) Claro, dou baile no elenco todo
+- B) Depende do prêmio que rolar
+- C) Teria vergonha do meu placar
+- D) Meu negócio é ganhar dos amigos
 
 ---
 
-## 🟩 Bloco 4 — Integração Multitelas e Experiência do Usuário (UX)
-**Objetivo:** Mapear os pontos de fricção no acesso ao longo das transmissões e entender onde a jornada começa e termina.
+## 🟥 Bloco 3 — Acesso e Patrocinadores (Ação do Login/Sponsor)
+**Objetivo:** Mapear a tolerância do público caso um patrocinador como o iFood exija passos extras (Ex: baixar app parceiro) em troca do jogo ou de melhores recompensas. 
 
-**Q16. Qual é a forma mais fácil de você entrar no bolão durante a live?**
-- A) Link fixado no chat do YouTube
-- B) Ler QR Code na tela da TV
-- C) Arrastar pra cima no Instagram
-- D) Ter o app já baixado no celular
+**Q11. Você criaria uma conta num app parceiro pra liberar o bolão?**
+- A) Sim, se for rápido e fácil eu faço
+- B) Sim, se o prêmio final valer o esforço
+- C) Preguiça, mas de repente eu criaria
+- D) Desisto, só jogo se não precisar
 
-**Q17. Se tiver que criar uma conta nova com senha, você desiste?**
-- A) Desisto na hora, muita preguiça
-- B) Só crio se logar com o Google
-- C) Crio sim, é rapidinho
-- D) Só crio se a premiação for boa
+**Q12. E se precisasse jogar dentro de outro App (ex: iFood)?**
+- A) Legal, já tenho o app instalado
+- B) Pior, não gosto de misturar abas
+- C) Só se virar cupom de desconto junto
+- D) Tanto faz, eu só quero é palpitar
 
-**Q18. Como você prefere ver os palpites do Casimiro na tela?**
-- A) Quero o placar dele lá no meu app
-- B) Só na transmissão ao vivo
-- C) Num card postado no Instagram
-- D) Não ligo pro palpite dele
+**Q13. Qual perfil de marca faz mais sentido pra patrocinar o bolão?**
+- A) Aplicativo de comida ou delivery
+- B) Marcas de esporte ou chuteira
+- C) Serviços de banco e pagamento
+- D) Pra mim não faz diferença
 
-**Q19. Se o bolão fosse um site dentro de outro App (ex: iFood), atrapalha?**
-- A) Facilita, já tenho o app instalado
-- B) Pior, não quero misturar as coisas
-- C) Só entro se me der cupom junto
-- D) Tanto faz, eu só quero jogar
+**Q14. Para liberar um "Tier Premium", o que você seria capaz de fazer?**
+- A) Me cadastrar no clube do parceiro
+- B) Pagar um valor único e pequeno
+- C) Assistir a comerciais extras
+- D) O bolão tem que ser 100% grátis
 
-**Q20. O que te faria desinstalar / sair do bolão no meio da Copa?**
-- A) Travar na hora do palpite
-- B) Regras confusas ou injustas
-- C) Se meus amigos pararem de jogar
-- D) Nunca ver meu nome no ranking
+**Q15. Se o parceiro pedir seu e-mail pra mandar ofertas, topa?**
+- A) Sim, apago depois se não quiser ver
+- B) Topo total, gosto de descontos
+- C) Odeio propaganda, não topo isso
+- D) Uso um e-mail alternativo pra isso
+
+---
+
+## 🟩 Bloco 4 — O Bolão nas Redes Sociais (Ação de Engajamento/Growth)
+**Objetivo:** Definir os canais de espalhamento (Instagram, Zap, Discord) e entender qual tipo de lembrete o público ignora ou aceita.
+
+**Q16. Além do app, onde a resenha do bolão vai pegar fogo pra você?**
+- A) Num grupo de WhatsApp fechado
+- B) No chat do YouTube durante o jogo
+- C) Na guerra de indiretas no Twitter/X
+- D) Nos meus Stories do Instagram
+
+**Q17. Se a CazéTV abrir um grupo de Zap oficial do bolão, você entra?**
+- A) Na hora, amo interagir com fã
+- B) Só pra olhar, sem mandar foto
+- C) Flopa, muita mensagem silenciada
+- D) Prefiro fazer isso no Discord
+
+**Q18. Como é o melhor jeito de te lembrar de palpitar sem ser chato?**
+- A) Mensagem direta no WhatsApp
+- B) O Casimiro lembrando ao vivo na live
+- C) Story no Instagram um pouco antes
+- D) Pop-up padrão do aplicativo
+
+**Q19. Se você errar 5 placares seguidos, o que evitaria você desistir?**
+- A) A pressão dos amigos nos grupos
+- B) Um prêmio aleatório de "azarão"
+- C) Um jogo grande clássico da Copa
+- D) Eu largo de mão, não ligo mais
+
+**Q20. Você mandaria figurinhas (stickers) do Cazé rindo do seu amigo que errou o palpite?**
+- A) Óbvio, ia ser chuva no Zap
+- B) Só mandaria se fosse vitória minha
+- C) Ah, se for muito engraçada eu uso
+- D) Não sou de usar adesivos no Zzap
